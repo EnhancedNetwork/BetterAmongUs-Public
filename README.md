@@ -2,7 +2,7 @@
 
 A client-sided mod that enhances the experience for the popular game Among Us!
 
-<img src="https://github.com/D1GQ/BetterAmongUs/assets/83262852/ab10830c-a270-4be4-b79d-4fe911693e47" alt="BetterAmongUs-Logo" width="700" height="400">
+<img src="https://github.com/user-attachments/assets/f42c25a6-e162-4abf-95f9-7bdea892ac87" alt="BetterAmongUs-Logo" width="700" height="400">
 
 </p>
 <p align="center">
@@ -31,7 +31,7 @@ BetterAmongUs comes packed with a variety of features designed to improve your g
 - **Client Improvements**: Experience smoother gameplay with various client-side improvements.
 - **And More!**: Stay tuned for more exciting features coming your way!
 
-<img src="https://github.com/user-attachments/assets/16953c74-ce25-47ed-965b-27fc73c14658" alt="freeplay-promo" width="700" height="400">
+<img src="https://github.com/user-attachments/assets/5f24da22-a865-490e-9111-0eae2cac5f54" alt="freeplay-promo" width="700" height="400">
 
 ## Anti-Cheat
 
