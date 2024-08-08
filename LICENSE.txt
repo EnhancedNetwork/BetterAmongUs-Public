@@ -1,0 +1,34 @@
+                               BetterAmongUs License Agreement
+                                      8/7/2024
+
+1. Grant of License
+   This license permits the Licensee to use the compiled binary form of the mod (the "Mod") for personal, non-commercial purposes only.
+
+2. Restrictions
+   The Licensee is not permitted to:
+   - Modify, adapt, translate, or create derivative works based on the Mod.
+   - Decompile, reverse engineer, disassemble, or otherwise attempt to derive the source code of the Mod.
+   - Redistribute, sublicense, lease, rent, or sell the Mod or any portion thereof.
+   - Use the Mod in any manner that could harm, abuse, disrupt, or otherwise negatively impact the Mod, its functionality, or its intended use.
+   - Use the Mod for any commercial purposes without obtaining a separate commercial license from the Licensor.
+
+3. Termination
+   This license will automatically terminate if the Licensee fails to comply with any of the terms and conditions outlined herein. Upon termination, the Licensee must cease all use of the Mod and destroy any copies of the Mod in their possession.
+
+4. Disclaimer of Warranty
+   The Mod is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. The entire risk as to the quality and performance of the Mod is borne by the Licensee. Should the Mod prove defective, the Licensee assumes the cost of all necessary servicing, repair, or correction.
+
+5. Limitation of Liability
+   In no event shall the Licensor be liable for any special, incidental, indirect, or consequential damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use the Mod, even if the Licensor has been advised of the possibility of such damages.
+
+6. Governing Law
+   This license shall be governed by and construed in accordance with the laws of [Your Country/State], without regard to its conflict of laws principles.
+
+7. Entire Agreement
+   This license constitutes the entire agreement between the Licensee and the Licensor concerning the Mod and supersedes all prior or contemporaneous understandings regarding such subject matter. No amendment to or modification of this license will be binding unless in writing and signed by the Licensor.
+
+8. Severability
+   If any provision of this license is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable, and the other provisions shall remain in full force and effect.
+
+9. Disclaimer of Affiliation
+   This Mod is not affiliated with, endorsed by, or in any way associated with Innersloth, the creators of Among Us. All intellectual property rights in the game Among Us are owned by Innersloth.
