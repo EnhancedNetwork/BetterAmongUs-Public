@@ -60,6 +60,7 @@ BetterAmongUs offers a variety of commands to enhance your control over the game
 - `/kick {id}` Kick a player from the game (Host Only!).
 - `/ban {id}` Ban a player from the game (Host Only!).
 - `/endgame {reason}` Force end the game (Host Only!).
+- `/removeplayer {identifier}` Remove player from local Anti-Cheat data by (FriendCode, HashPuid).
 
 ## Credits
 
