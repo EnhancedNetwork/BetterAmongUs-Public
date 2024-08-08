@@ -68,6 +68,9 @@ A huge thank you to everyone who contributed to making BetterAmongUs a reality!
 - **Head Developer**: [D1GQ](https://github.com/D1GQ)
 - **Special Thanks**: [TOHE Repository](https://github.com/0xDrMoe/TownofHost-Enhanced/tree/main) - We couldn't have resolved a lot of issues without their code space!
 
+## Contacts
+betterauofficial@gmail.com
+
 ## Disclaimer
 
 **BetterAmongUs** is an unofficial, fan-made mod for **Among Us**. It is not affiliated with, endorsed by, or associated with **InnerSloth LLC** or the official **Among Us** game. All trademarks and copyrights related to **Among Us** are the property of **InnerSloth LLC**. This mod is created purely for entertainment purposes and to enhance the gaming experience. Use of this mod is at your own risk.
