@@ -20,6 +20,19 @@ A client-sided mod that enhances the experience for the popular game Among Us!
 3. **Check the Commands**: Type `/commands` in the chat to view a list of all available commands.
 4. **Stay Updated**: Keep an eye on this page for future updates and new features.
 
+## Supported Platforms
+- ✅ Steam
+- ✅ Epic Games
+- ⚠️ itch.io (Unknown)
+- ❌ Microsoft Store
+- ❌ iOS/Android
+- ❌ Xbox/Playstation/Switch
+
+## Supported Game Versions
+- ✅ [v2024.8.13](https://github.com/D1GQ/BetterAmongUs-Public/releases/tag/Latest-Release)
+- ✅ [v2024.6.18](https://github.com/D1GQ/BetterAmongUs-Public/releases/tag/Latest-Release)
+- ❌ v2024.3.5 or Below
+
 ## Features
 
 BetterAmongUs comes packed with a variety of features designed to improve your gameplay experience:
