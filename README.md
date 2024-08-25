@@ -29,9 +29,9 @@ A client-sided mod that enhances the experience for the popular game Among Us!
 - ❌ Xbox/Playstation/Switch
 
 ## Supported Game Versions
-- ✅ [v2024.8.13](https://github.com/D1GQ/BetterAmongUs-Public/releases/tag/Latest-Release)
-- ✅ [v2024.6.18](https://github.com/D1GQ/BetterAmongUs-Public/releases/tag/Latest-Release)
-- ❌ v2024.3.5 or Below
+- ✅ **v2024.8.13**
+- ✅ **v2024.6.18**
+- ❌ **v2024.3.5** or Below
 
 ## Features
 
