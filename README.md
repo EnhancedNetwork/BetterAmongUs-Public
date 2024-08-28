@@ -23,8 +23,8 @@ A client-sided mod that enhances the experience for the popular game Among Us!
 ## Supported Platforms
 - ✅ Steam
 - ✅ Epic Games
+- ✅ Microsoft Store
 - ⚠️ itch.io (Unknown)
-- ❌ Microsoft Store
 - ❌ iOS/Android
 - ❌ Xbox/Playstation/Switch
 
