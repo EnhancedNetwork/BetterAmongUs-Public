@@ -8,7 +8,7 @@ A client-sided mod that enhances the experience for the popular game Among Us!
 <p align="center">
 
 <div style="text-align: center;">
-    <a href="https://discord.gg/vjYrXpzNAn" target="_blank">
+    <a href="https://discord.gg/ten" target="_blank">
         <img src="https://img.shields.io/badge/Discord%20-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5662f6" width="200" height="50"/>
     </a>
 </div>
