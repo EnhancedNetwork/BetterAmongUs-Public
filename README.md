@@ -2,7 +2,7 @@
 
 A client-sided mod that enhances the experience for the popular game Among Us!
 
-<img src="https://github.com/user-attachments/assets/f42c25a6-e162-4abf-95f9-7bdea892ac87" alt="BetterAmongUs-Logo" width="700" height="400">
+<img src="https://github.com/user-attachments/assets/838e335d-7c54-40a0-8ac3-cbe97129f0f2" alt="BetterAmongUs-Logo" width="700" height="500">
 
 </p>
 <p align="center">
