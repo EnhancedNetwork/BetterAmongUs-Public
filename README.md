@@ -82,7 +82,6 @@ BetterAmongUs offers a variety of commands to enhance your control over the game
 A huge thank you to everyone who contributed to making BetterAmongUs a reality!
 
 - **Head Developer**: [D1GQ](https://github.com/D1GQ)
-- **Special Thanks**: [TOHE Repository](https://github.com/0xDrMoe/TownofHost-Enhanced/tree/main) - We couldn't have resolved a lot of issues without their code space!
 
 ## Contacts
 betterauofficial@gmail.com
