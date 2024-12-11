@@ -72,7 +72,7 @@ BetterAmongUs offers a variety of commands to enhance your control over the game
 - `/setprefix {prefix}` Set the command prefix.
 - `/kick {id}` Kick a player from the game (Host Only!).
 - `/ban {id}` Ban a player from the game (Host Only!).
-- `/endgame {reason}` Force end the game (Host Only!).
+- `/endgame` Force end the game (Host Only!).
 - `/removeplayer {identifier}` Remove player from local Anti-Cheat data by (FriendCode, HashPuid).
 - `/removeall` Remove all players from local Anti-Cheat data.
 
