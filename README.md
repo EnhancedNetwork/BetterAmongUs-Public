@@ -29,6 +29,8 @@ A client-sided mod that enhances the experience for the popular game Among Us!
 - ❌ Xbox/Playstation/Switch
 
 ## Supported Game Versions
+- ✅ **2024.11.26**
+- ✅ **2024.10.29**
 - ✅ **v2024.9.4**
 - ✅ **v2024.8.13**
 - ✅ **v2024.6.18**
