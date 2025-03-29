@@ -15,7 +15,7 @@ A client-sided mod that enhances the experience for the popular game Among Us!
 
 ## Getting Started
 
-1. **Install the Mod**: Download the latest version from [Releases](https://github.com/D1GQ/BetterAmongUs-Public/releases) and follow the installation instructions in the [BepInEx Installation Guide](https://docs.bepinex.dev/articles/user_guide/installation/index.html) to get BetterAmongUs up and running.
+1. **Install the Mod**: Download the latest version from [Releases](https://github.com/EnhancedNetwork/BetterAmongUs-Public/releases) and follow the installation instructions in the [BepInEx Installation Guide](https://docs.bepinex.dev/articles/user_guide/installation/index.html) to get BetterAmongUs up and running.
 2. **Explore the Features**: Use the pause menu to discover new options and settings.
 3. **Check the Commands**: Type `/commands` in the chat to view a list of all available commands.
 4. **Stay Updated**: Keep an eye on this page for future updates and new features.
@@ -24,18 +24,19 @@ A client-sided mod that enhances the experience for the popular game Among Us!
 - ✅ Steam
 - ✅ Epic Games
 - ✅ Microsoft Store
-- ⚠️ itch.io (Unknown)
-- ❌ iOS/Android
+- ✅ itch.io
+- ⚠️ Android (Unknown)
+- ❌ iOS
 - ❌ Xbox/Playstation/Switch
 
 ## Supported Game Versions
-- ✅ **v2025.3.25** / **v16.0.0**: (v1.1.6 Beta 1) >
-- ✅ **v2024.11.26**: >
-- ✅ **v2024.10.29**: >
-- ✅ **v2024.9.4**: >
-- ✅ **v2024.8.13**: >
-- ✅ **v2024.6.18**: (v1.0.0) >
-- ❌ **v2024.3.5**: or Below <
+- ✅ AU **v16.0.0** / **v2025.3.25**: (BAU v1.1.6 Beta 1) >
+- ✅ AU **v2024.11.26**: >
+- ✅ AU **v2024.10.29**: >
+- ✅ AU **v2024.9.4**: >
+- ✅ AU **v2024.8.13**: >
+- ✅ AU **v2024.6.18**: (BAU v1.0.0) >
+- ❌ AU **v2024.3.5**: or Below <
 
 ## Features
 
