@@ -1,0 +1,10 @@
+show: false
+type: 1
+id: 110000
+title: Main Header
+subtitle: Main Header SubText
+listtitle: List Name
+date: 2025-01-01T12:00:00.0000000Z
+
+content:
+ Text here
