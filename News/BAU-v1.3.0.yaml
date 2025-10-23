@@ -1,10 +1,34 @@
-show: true
-type: 1
-id: 110001
-title: Well long time no see
-subtitle: We are back!
-listtitle: BAU v1.3.0
-date: 2025-10-22T12:00:00.0000000Z
+^show: true
+^type: 1
+^id: 110002
+^title: Long time no see :)
+^subtitle: We are back!
+^listtitle: BAU v1.3.0
+^date: 2025-11-23T12:00:00.0000000Z
 
-content-en_US:
-Coming soon!
+^content-en_US:
+ # Better Among Us v1.3.0
+
+ We are thrilled to announce this release of **BetterAmongUs**, a mod designed to enhance your Among Us experience!
+ ---
+ We are sad to announce that BAU will be parting ways with TEN.
+ While it was a good run, BAU will be independent again!
+ ---
+
+ ## Change Log
+
+ #### New Features
+ - **Update Button**: Now when there's a update available you can quickly download it by a press of a button
+ - **Outfit Presets**: Added 5 outfit presets in the player inventory that can be quickly changed through
+ - **UI Theme**: Added BAU theming to a lot of the UI
+ - **Show Role In Name**: Added new setting that shows roles to vanilla clients in their names
+ ---
+ #### Improvements
+ - **Performance Optimization**: Reduced lag and improved frame rate by optimizing BAU to work with Il2Cpp issues
+ - **Announcements**: Announcements are now able to be added without having to update the mod
+ - **Settings**: Reworked better settings menu
+ ---
+ #### Bug Fixes
+ - Fixed certain UI elephants with Zoom
+ - Fixed shapeshifter sometimes revealing their real name, I'm praying this is actually fixed XD
+ - Fixed a lot of bugs that i don't want to list :)
