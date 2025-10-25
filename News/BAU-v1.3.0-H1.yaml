@@ -7,7 +7,7 @@
 ^date: 2025-11-24T12:00:00.0000000Z
 
 ^content-en_US:
- # Better Among Us v1.3.0 Hotfix
+ # Better Among Us v1.3.0 Hotfix 1
 
  We are thrilled to announce this hotfix of **BetterAmongUs**, a mod designed to enhance your Among Us experience!
  
@@ -24,4 +24,5 @@
  - Fixed incorrect role information being displayed when a player is dead
  ---
  ## [Discord](https://discord.gg/vjYrXpzNAn) [Github](https://github.com/D1GQ/BetterAmongUs-Public/)
+
 
