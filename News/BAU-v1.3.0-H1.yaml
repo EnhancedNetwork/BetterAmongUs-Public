@@ -1,0 +1,26 @@
+^show: true
+^type: 1
+^id: 110003
+^title: Hotfix Patch Notes
+^subtitle: Just a quick hotfix!
+^listtitle: BAU v1.3.0 H1
+^date: 2025-11-24T12:00:00.0000000Z
+
+^content-en_US:
+ # Better Among Us v1.3.0 Hotfix
+
+ We are thrilled to announce this release of **BetterAmongUs**, a mod designed to enhance your Among Us experience!
+ 
+ ## Change Log
+
+ #### Removed
+ - **Show Role In Name**: Show Role In Name is being removed temporary due to kicking issues.
+ ---
+ #### Improvements
+ - **Team Color**: Now using the actual team colors from the game
+ - **Name Color**: Impostor teammate names are now red
+ ---
+ #### Bug Fixes
+ - Fixed incorrect role information being displayed when a player is dead
+ ---
+ ## [Discord](https://discord.gg/vjYrXpzNAn) [Github](https://github.com/D1GQ/BetterAmongUs-Public/)
