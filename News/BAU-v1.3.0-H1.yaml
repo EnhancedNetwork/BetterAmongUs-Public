@@ -9,12 +9,12 @@
 ^content-en_US:
  # Better Among Us v1.3.0 Hotfix
 
- We are thrilled to announce this release of **BetterAmongUs**, a mod designed to enhance your Among Us experience!
+ We are thrilled to announce this hotfix of **BetterAmongUs**, a mod designed to enhance your Among Us experience!
  
  ## Change Log
 
  #### Removed
- - **Show Role In Name**: Show Role In Name is being removed temporary due to kicking issues.
+ - **Show Role In Name**: Show Role In Name is being removed temporary due to kicking issues
  ---
  #### Improvements
  - **Team Color**: Now using the actual team colors from the game
@@ -24,3 +24,4 @@
  - Fixed incorrect role information being displayed when a player is dead
  ---
  ## [Discord](https://discord.gg/vjYrXpzNAn) [Github](https://github.com/D1GQ/BetterAmongUs-Public/)
+
