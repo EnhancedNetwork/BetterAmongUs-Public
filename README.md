@@ -30,6 +30,7 @@ A client-sided mod that enhances the experience for the popular game Among Us!
 - ❌ Xbox/Playstation/Switch
 
 ## Supported Game Versions
+- ✅ AU **v17.0.1** / **v2025.10.14**: (BAU v1.3.0) >
 - ✅ AU **v16.1.0** / **v2025.6.10**: (BAU v1.2.0 Beta 1) >
 - ✅ AU **v16.0.0** / **v2025.3.25**: (BAU v1.1.6 Beta 1) >
 - ✅ AU **v2024.11.26**: >
