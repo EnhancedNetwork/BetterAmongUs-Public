@@ -1,6 +1,6 @@
 ^show: true
 ^type: 1
-^id: 110003
+^id: 110004
 ^title: Hotfix Patch Notes
 ^subtitle: Just a quick hotfix!
 ^listtitle: BAU v1.3.0 H2
@@ -19,4 +19,5 @@
  - Fixed null references spam... I think
  ---
  ## [Discord](https://discord.gg/vjYrXpzNAn) [Github](https://github.com/D1GQ/BetterAmongUs-Public/)
+
 
