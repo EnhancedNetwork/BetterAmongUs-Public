@@ -1,0 +1,20 @@
+^show: true
+^type: 1
+^id: 110005
+^title: Hotfix Patch Notes
+^subtitle: Just a quick hotfix!
+^listtitle: BAU v1.3.0 H3
+^date: 2025-10-28T12:00:00.0000000Z
+
+^content-en_US:
+ # Better Among Us v1.3.0 Hotfix 3
+
+ We are thrilled to announce this hotfix of **BetterAmongUs**, a mod designed to enhance your Among Us experience!
+ 
+ ## Change Log
+ 
+ #### Bug Fixes
+ - Fixed issues with chat
+ ---
+ ## [Discord](https://discord.gg/vjYrXpzNAn) [Github](https://github.com/D1GQ/BetterAmongUs-Public/)
+
