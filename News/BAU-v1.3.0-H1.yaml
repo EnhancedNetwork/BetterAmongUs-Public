@@ -4,7 +4,7 @@
 ^title: Hotfix Patch Notes
 ^subtitle: Just a quick hotfix!
 ^listtitle: BAU v1.3.0 H1
-^date: 2025-11-24T12:00:00.0000000Z
+^date: 2025-10-24T12:00:00.0000000Z
 
 ^content-en_US:
  # Better Among Us v1.3.0 Hotfix 1
@@ -24,5 +24,6 @@
  - Fixed incorrect role information being displayed when a player is dead
  ---
  ## [Discord](https://discord.gg/vjYrXpzNAn) [Github](https://github.com/D1GQ/BetterAmongUs-Public/)
+
 
 
