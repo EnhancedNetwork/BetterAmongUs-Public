@@ -1,3 +1,13 @@
+# ⚠️ Repository Archived
+This repository has been archived and is no longer maintained.
+
+**Please visit our new repository:**  
+→ **[Better Among Us](https://github.com/D1GQ/BetterAmongUs)**
+
+---
+
+*This repository is read-only. All future development will continue in the new repository.*
+
 # ♻ BetterAmongUs ♻
 
 A client-sided mod that enhances the experience for the popular game Among Us!
